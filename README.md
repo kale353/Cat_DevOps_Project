@@ -1,5 +1,5 @@
 # Cat_DevOps_Project
-Pretty dumb cat website to practice DevOps skills like Containerization, CI/CD pipelines etc.
+Cat website to practice DevOps skills like Containerization, CI/CD pipelines etc.
 
 Displays a website with a button on your local machine
 
